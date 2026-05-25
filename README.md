@@ -98,6 +98,6 @@ This project demonstrates how Power BI can be used to analyze customer churn and
 
 # 👨‍💻 Author
 
-Aadhya
-AI & Data Science Student
-Passionate about Data Analytics, Machine Learning, and Business Intelligence
+*J.Sree Harshini
+*AI & Data Science Student
+*Passionate about Data Analytics, Machine Learning, and Business Intelligence
